@@ -1,6 +1,14 @@
 # Spintronics-Generative-Layouts
 A repository for generating layouts related to spintronics devices such as MRAM cells (MTJs), Hall bars, GSG waveguides, etc. Created by Onri Jay Benally.
 
+---
+
+Majority of the code used in this repository uses:
+- [GDSTK](https://heitzmann.github.io/gdstk/gettingstarted.html)
+- [PHIDL](https://phidl.readthedocs.io/en/latest/tutorials/quickstart.html)
+- [numpy](https://numpy.org)
+- [matplotlib](https://matplotlib.org)
+
 ----
 
 Below is an example output from the nano MTJ layout generation produced by the Python code in Google Colab.
